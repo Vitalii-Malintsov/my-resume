@@ -193,12 +193,12 @@ body {
   margin-right: 7px;
 }
 
-contacts-section-link {
+.contacts-section-link {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
-  color: #565e6a;
+  color: #6c91c7;
 }
 
 /*Tech skills section*/
